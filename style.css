@@ -11,8 +11,9 @@ body {
 #logo {
     margin-left: 145px;
     margin-right: 8px;
-    margin-top: 8px;
+    margin-top: 3px;
     width: 100px;
+
     float: left;
 }
 .topbarSection {
@@ -247,6 +248,7 @@ h1 a:hover {
 }
 .subImage img {
     width: 180px;
+    height: 120px;
 }
 .subTitle {
     text-decoration: none;
@@ -391,6 +393,7 @@ h1 a:hover {
     color: #1167A8;
 }
 #shareWithBBC img {
+    width: 20px;
     float: left;
     margin-right: 10px;
     margin-top: -2px;
@@ -502,6 +505,11 @@ h1 a:hover {
 .alsoImg {
     float: left;
 }
+.alsoIMG{
+    width: 102px;
+    height: 61px;
+    margin-bottom: 15px;
+}
 .alsoClass1 {
     margin-right: 20px;
 }
@@ -541,6 +549,10 @@ h1 a:hover {
     width: 200px;
     height: 230px;
     margin-right: 20px;
+}
+.featuresImg{
+    width: 205px;
+    height: 125px;
 }
 .ftitle a{
     text-decoration: none;
@@ -752,7 +764,7 @@ h1 a:hover {
     font-size: 15px;
     color: #5a5a5a;
     float: left;
-    margin: 2px 0px 0px 5px;
+    margin: 6px 20px 0px 5px;
 }
 .techWorldDivCat {
     color: #dcdcdc;
@@ -883,10 +895,11 @@ h1 a:hover {
     height: 420px;
     float: left;
 }
+
 #podcastLeftImg {
-    width: 580px;
-    margin: 10px;
-    height: 350px;
+    width: 617px;
+    margin-top: 35px;
+    height: 346px;
 }
 #podcastRight {
     width: 450px;
@@ -905,6 +918,7 @@ h1 a:hover {
     font-size: 25px;   
 }
 #podcastLeftHeading a {
+    margin-left: 100px;
     text-decoration: none;
     color: white;
 }
